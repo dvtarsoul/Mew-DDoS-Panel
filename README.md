@@ -4,9 +4,9 @@ Simple DDoS (DoS) panel with low power for little sites.
 
 ## 📡 **All methods**
 
- • HTTP-LUGIA : Simple HTTP GET rq flood
- • HTTPS-HEAD : Simple HTTP HEADER flood
- • HTTPS-POST : Simple HTTP POST rq flood
+ - HTTP-LUGIA : Simple HTTP GET rq flood
+ - HTTPS-HEAD : Simple HTTP HEADER flood
+ - HTTPS-POST : Simple HTTP POST rq flood
 
 ## 🔎 **How to use**
 
