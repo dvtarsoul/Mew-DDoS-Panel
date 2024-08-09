@@ -18,7 +18,7 @@ Simple DDoS (DoS) panel with low power for little sites.
 
 ## 🚀 **Adding**
 
-Adding methods on this projecg would be really appreciated
+Adding methods on this project would be really appreciated
 
 ## 💿 **Credits**
  - tarsoul
